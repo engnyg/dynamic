@@ -1,6 +1,6 @@
 # Ripple
 
-一個靈感來自 Apple Dynamic Island 的桌面小工具，使用 Electron + React 打造，支援 Windows、macOS 和 Linux。
+一個靈感來自 Apple Dynamic Island 並參考https://github.com/TopMyster/Ripple/tree/main的桌面小工具，使用 Electron + React 打造，支援 Windows、macOS 和 Linux。
 
 ## 功能
 
