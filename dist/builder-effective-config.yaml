@@ -1,0 +1,24 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.ripple.app
+productName: Ripple
+files:
+  - filter:
+      - src/main.js
+      - src/preload.js
+      - src/assets/icons/**
+      - dist/renderer/**
+win:
+  target: nsis
+  icon: src/assets/icons/icon.ico
+mac:
+  target: dmg
+  icon: src/assets/icons/icon.icns
+linux:
+  target: AppImage
+  icon: src/assets/icons/icon.png
+nsis:
+  oneClick: true
+  allowToChangeInstallationDirectory: false
+electronVersion: 31.7.7
