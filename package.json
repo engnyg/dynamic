@@ -1,6 +1,6 @@
 {
   "name": "ripple",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Dynamic Island-style desktop widget",
   "main": "src/main.js",
   "scripts": {
