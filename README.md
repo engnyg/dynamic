@@ -29,7 +29,7 @@
 ## 快速開始
 
 直接下載exe打開即可使用
-https://github.com/engnyg/dynamic/releases/tag/dynamic
+https://github.com/engnyg/dynamic/releases/
 
 ## 自己編譯
 
